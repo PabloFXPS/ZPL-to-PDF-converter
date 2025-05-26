@@ -9,7 +9,7 @@
     <ProjectGuid>{B343ACEB-0007-4F2C-ABB9-C1A448F2ABCD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ZPL_to_PDF_converter</RootNamespace>
-    <AssemblyName>ZPL to PDF converter</AssemblyName>
+    <AssemblyName>ZPLtoPDFconverter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
